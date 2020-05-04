@@ -1,11 +1,11 @@
 # Site settings
-author: Jeff Bai
-title: 
+author: Jeff B
+title: Software Engineering Bootcamp Blog
 header-img: img/home-bg.png
 email: j.bai@wustl.edu
-copyright_name: Jeff Bai
+copyright_name: Jeff B
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A brief overview of my First Mile at Flatiron School.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bailaoye
